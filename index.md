@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Manong Rise
 
 You can use the [editor on GitHub](https://github.com/kashiru0981/ManongRise/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
